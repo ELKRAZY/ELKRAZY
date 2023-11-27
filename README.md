@@ -19,7 +19,7 @@
 | <a href="https://github.com/ELKRAZY/ColorIA" target="_blank">**ColorIA**</a> | 
 | :---: |
 <img align='center' src='https://github.com/ELKRAZY/ColorIA/blob/master/app/src/main/res/drawable-v24/logo.png?raw=true' width="100px"  height='100px'> |
-| <p>Color picker for artists and colorblind persons.</p> <a href="https://github.com/ELKRAZY/ColorIA" target="_blank">`Repository`</a>
+| <p>A Real time Color picker for artists and colorblind persons.</p> <a href="https://github.com/ELKRAZY/ColorIA" target="_blank">`Repository`</a>
 
 
 <h2 align="center">🌱 My Skills</h2>
