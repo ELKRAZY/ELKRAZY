@@ -3,7 +3,7 @@
 
 - 🌱 `I’m currently learning `: **Linux**
   
-- ⚡ `I'm`: **20 years old**
+- ⚡ `I'm`: **21 years old**
 
 * ❤️ `I love and hate`☠: **Sleep**
 
